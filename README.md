@@ -1,2 +1,2 @@
-# study-ps-forms
+# trial-ps-forms
 Create Windows Form by PowerShell
